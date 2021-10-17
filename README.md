@@ -17,3 +17,9 @@ I have setup a Jupyter Notebook server on an AWS EC2 instance accessible at http
 4. RSS, F-Test & Anova in predicting box office success
 5. Illustrating unimportant predictors with shipping labour hours dataset
 6. Transformations into Quadratic and Square Root Models
+7. Regression Modelling 07. Prediction Intervals and transformations for home tax dataset
+8. Regression Modelling 08. Transformations for GDP~Internet Model.ipynb
+9. Regression Modelling 09. Analysis of interactions in multivariate analysis .ipynb
+10. Regression Modelling 10. Removal of interaction terms.ipynb
+11. Regression Modelling 11. Confounding levels in qualitative factors.ipynb
+12. Regression Modelling 12. Diagnostic Plots, Leverage, Cooks Distance & Outliers.ipynb
