@@ -1,14 +1,8 @@
 # Applied Regression Modelling
 
-**The Repository** 
-
 This repository contains Jupyter Notebooks with R scripts inspired by the book [Applied Regression Modelling](https://iainpardoe.com/arm2e/) by [Iain Pardoe](https://iainpardoe.com/).
 
 The book is mostly focused on the mathematical foundations of these models as opposed to implementation in R or Python, but in this repository I have created Jupyter Notebooks with R code that gives examples of how to build multiple linear regression models, interpret the result, check model assumptions, perform transformations and interpret influential points. These essential data science tasks are worked through along side mathematical formulas in the notebooks to show the underlying maths of each step.
-
-**The Jupyter Server**
-
-I have setup a Jupyter Notebook server on an AWS EC2 instance accessible at https://stats.fieldmap.me/. If you would like access to the server please contact hi@johnmalcolmdesign.com
 
 ## Notebooks
 1. Model Comparisons, Assumptions & Predictions in Cars City Miles Efficiency
@@ -18,8 +12,13 @@ I have setup a Jupyter Notebook server on an AWS EC2 instance accessible at http
 5. Illustrating unimportant predictors with shipping labour hours dataset
 6. Transformations into Quadratic and Square Root Models
 7. Prediction Intervals and transformations for home tax dataset
-8. Transformations for GDP~Internet Model.ipynb
-9. Analysis of interactions in multivariate analysis .ipynb
-10. Removal of interaction terms.ipynb
-11. Confounding levels in qualitative factors.ipynb
-12. Diagnostic Plots, Leverage, Cooks Distance & Outliers.ipynb
+8. Transformations for GDP~Internet Model
+9. Analysis of interactions in multivariate analysis 
+10. Removal of interaction terms
+11. Confounding levels in qualitative factors
+12. Diagnostic Plots, Leverage, Cooks Distance & Outliers
+
+## The Jupyter Server
+
+I have setup a Jupyter Notebook server on an AWS EC2 instance accessible at https://stats.fieldmap.me/. If you would like access to the server please contact hi@johnmalcolmdesign.com
+
