@@ -19,6 +19,6 @@ The book is mostly focused on the mathematical foundations of these models as op
 
 ## The Jupyter Server
 
-I have setup a Jupyter Notebook server on an AWS EC2 instance accessible at https://stats.fieldmap.me/. If you would like access to the server please contact hi@johnmalcolmdesign.com
+I am running a Jupyter Notebook server on my AWS EC2 instance accessible at https://stats.fieldmap.me/. If you would like access to the server please contact hi@johnmalcolmdesign.com . Datasets are hosted on S3.
 
 ![linear model](https://miro.medium.com/max/565/1*JjJbdh3xd_QFRopd9_R_9w.png)
